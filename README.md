@@ -1,1 +1,173 @@
 # Rajesh_Senior_Roto_Artist
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rajesh Sundar | Senior Roto Artist</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #0f0f0f;
+    color: #ffffff;
+}
+
+header {
+    background: linear-gradient(90deg, #1f1f1f, #2c2c2c);
+    padding: 40px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+
+header h2 {
+    margin-top: 10px;
+    font-weight: 400;
+    color: #bbbbbb;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+    padding: 40px 0;
+}
+
+.section {
+    margin-bottom: 50px;
+}
+
+.section h3 {
+    border-left: 4px solid #00bcd4;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.skills span {
+    display: inline-block;
+    background: #1e1e1e;
+    padding: 8px 12px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.projects ul {
+    list-style: none;
+    padding: 0;
+}
+
+.projects li {
+    padding: 6px 0;
+    color: #cccccc;
+}
+
+.experience-item {
+    margin-bottom: 20px;
+}
+
+footer {
+    background: #1a1a1a;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #aaaaaa;
+}
+
+a {
+    color: #00bcd4;
+    text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>RAJESH SUNDAR</h1>
+    <h2>Senior Roto Artist | 9+ Years Experience</h2>
+    <p>Salem, Tamil Nadu, India</p>
+    <p>📞 +91 78459 28170 | ✉️ rajeshvfx91@gmail.com</p>
+</header>
+
+<div class="container">
+
+    <div class="section">
+        <h3>Professional Summary</h3>
+        <p>
+            Senior Roto Artist with 9+ years of experience in high-end VFX production.
+            Specialized in hair roto, motion blur, organic & hard surface roto,
+            CG hold-outs and shot finalization. Experienced in handling
+            Hollywood feature films, OTT projects and leading roto teams.
+        </p>
+    </div>
+
+    <div class="section skills">
+        <h3>Software Skills</h3>
+        <span>Boris FX Silhouette</span>
+        <span>Nuke</span>
+        <span>Mocha Pro</span>
+        <span>Boujou</span>
+    </div>
+
+    <div class="section">
+        <h3>Professional Experience</h3>
+
+        <div class="experience-item">
+            <strong>Senior Roto Artist – Pixrock VFX</strong> (2025 – Present)
+            <p>Handling complex hero shots, hair roto and motion blur for feature films and commercials.</p>
+        </div>
+
+        <div class="experience-item">
+            <strong>VFX Roto Lead – RadFX Media Services</strong> (2021 – 2025)
+            <p>Led roto team, assigned shots, QC review, handled client feedback and delivered high-quality mattes.</p>
+        </div>
+
+        <div class="experience-item">
+            <strong>VFX Roto Artist – RadFX</strong> (2017 – 2021)
+            <p>Worked on major DC & Marvel projects and complex environment roto shots.</p>
+        </div>
+
+    </div>
+
+    <div class="section projects">
+        <h3>Major Projects</h3>
+        <ul>
+            <li>Black Panther: Wakanda Forever</li>
+            <li>Rebel Moon</li>
+            <li>The Meg 2</li>
+            <li>The Suicide Squad</li>
+            <li>The Adam Project</li>
+            <li>Aquaman</li>
+            <li>Eternals</li>
+            <li>Shang-Chi</li>
+            <li>Black Adam</li>
+            <li>Justice League</li>
+            <li>Game of Thrones</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>Showreel</h3>
+        <p>
+            <a href="https://drive.google.com/file/d/17d2sGrPy8GRnFeCyE4f3SNrEaXMlkWYe/view?usp=drive_link" target="_blank">
+                Click here to watch my Showreel
+            </a>
+        </p>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 Rajesh Sundar | Senior Roto Artist Portfolio
+</footer>
+
+</body>
+</html>
